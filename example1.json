@@ -1,0 +1,32 @@
+{
+  "name": "David",
+  "slave": {
+    "fm-1": {
+      "MAC": "C4:01:A8:FC:36:2E",
+      "place": "1F-Lobby",
+      "status": 1
+    },
+    "sm-1": {
+      "MAC": "1A:BC:DE:30:16:F3",
+      "place": "1F-Lobby",
+      "status": 1
+    },
+    "fm-2": {
+      "MAC": "C4:01:A8:FC:36:3E",
+      "place": "2F-Lobby",
+      "status": 1
+    },
+    "sm-2": {
+      "MAC": "1A:BC:DE:30:16:F4",
+      "place": "2F-Lobby",
+      "status": 1
+    }
+  },
+  "status": {
+    "alarm": {
+      "heat": 0,
+      "smoke": 0
+    },
+    "power": 1
+  }
+}
